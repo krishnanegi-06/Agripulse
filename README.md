@@ -31,6 +31,7 @@ IoT
 Soil Moisture Sensors
 Database
 Firebase / SQLite
+
 📂 Project Structure
 
 Agripulse/
@@ -40,6 +41,7 @@ Agripulse/
 │── dataset/
 │── assets/
 │── README.md
+
 ⚙️ Installation & Setup
 🔹 Clone Repository
 
